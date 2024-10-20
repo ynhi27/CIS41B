@@ -184,11 +184,4 @@ Note:  if you already devised a system that uses a different technique (other th
 ### Lab 3 - Threading
 Instruction in .pdf file
 
-### Exercise Miscellaneous 1 - Unit Test
-
-### Exercise Miscellaneous 2 - Profiling
-
-### Exercise Miscellaneous 3 - TimeDate
-
-
-
+*Spring 2023*
