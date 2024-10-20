@@ -1,6 +1,6 @@
 # CIS41B
 
-These are all exercises, assignments, and small projects that I had done for CIS 41B course at De ANza College.
+These are all exercises, assignments, and small projects that I had done for CIS 41B course at De Anza College.
 
 ### Exercise WebScraping
 Write a Python script to scrape this website:
@@ -121,12 +121,6 @@ The database access is controlled by the Server Socket.  The client sends a quer
 Client Socket: (use exercise client)
 Requests data from the server.  After receiving the data from the server, the client displays the data.
 
-### Exercise Miscellaneous 1 - Unit Test
-
-### Exercise Miscellaneous 2 - Profiling
-
-### Exercise Miscellaneous 3 - TimeDate
-
 ### Exercise Parallelism
 Modify this threading example to use, exclusively, multiprocessing, instead of threading.
 
@@ -188,7 +182,13 @@ Post lab instructions:  Most successful solutions followed the guidelines and pr
 Note:  if you already devised a system that uses a different technique (other than processing the complete file) repost your solution to this assignment.  Also, if you do something arbitrary like only process a certain percentage of the file, provide the mathmatical reasoning that this percentage is not arbitrary.  For example:  only process 1% of the file as statistically %1 will lead to fewer false positives ... prove this assertion.
 
 ### Lab 3 - Threading
+Instruction in .pdf file
 
+### Exercise Miscellaneous 1 - Unit Test
+
+### Exercise Miscellaneous 2 - Profiling
+
+### Exercise Miscellaneous 3 - TimeDate
 
 
 
